@@ -1,0 +1,14 @@
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\bin\Debug\net8.0\Week3.exe
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\bin\Debug\net8.0\Week3.deps.json
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\bin\Debug\net8.0\Week3.runtimeconfig.json
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\bin\Debug\net8.0\Week3.dll
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\bin\Debug\net8.0\Week3.pdb
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\obj\Debug\net8.0\Week3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\obj\Debug\net8.0\Week3.AssemblyInfoInputs.cache
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\obj\Debug\net8.0\Week3.AssemblyInfo.cs
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\obj\Debug\net8.0\Week3.csproj.CoreCompileInputs.cache
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\obj\Debug\net8.0\Week3.dll
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\obj\Debug\net8.0\refint\Week3.dll
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\obj\Debug\net8.0\Week3.pdb
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\obj\Debug\net8.0\Week3.genruntimeconfig.cache
+D:\Career\Web Development\CAT_Reloaded\Begginer\Generic\Week3\obj\Debug\net8.0\ref\Week3.dll
