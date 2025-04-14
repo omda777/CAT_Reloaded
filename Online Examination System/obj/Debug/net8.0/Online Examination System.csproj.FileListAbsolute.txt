@@ -1,0 +1,14 @@
+D:\Career\Web Development\Projects_web\Online Examination System\bin\Debug\net8.0\Online Examination System.exe
+D:\Career\Web Development\Projects_web\Online Examination System\bin\Debug\net8.0\Online Examination System.deps.json
+D:\Career\Web Development\Projects_web\Online Examination System\bin\Debug\net8.0\Online Examination System.runtimeconfig.json
+D:\Career\Web Development\Projects_web\Online Examination System\bin\Debug\net8.0\Online Examination System.dll
+D:\Career\Web Development\Projects_web\Online Examination System\bin\Debug\net8.0\Online Examination System.pdb
+D:\Career\Web Development\Projects_web\Online Examination System\obj\Debug\net8.0\Online Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Web Development\Projects_web\Online Examination System\obj\Debug\net8.0\Online Examination System.AssemblyInfoInputs.cache
+D:\Career\Web Development\Projects_web\Online Examination System\obj\Debug\net8.0\Online Examination System.AssemblyInfo.cs
+D:\Career\Web Development\Projects_web\Online Examination System\obj\Debug\net8.0\Online Examination System.csproj.CoreCompileInputs.cache
+D:\Career\Web Development\Projects_web\Online Examination System\obj\Debug\net8.0\Online Examination System.dll
+D:\Career\Web Development\Projects_web\Online Examination System\obj\Debug\net8.0\refint\Online Examination System.dll
+D:\Career\Web Development\Projects_web\Online Examination System\obj\Debug\net8.0\Online Examination System.pdb
+D:\Career\Web Development\Projects_web\Online Examination System\obj\Debug\net8.0\Online Examination System.genruntimeconfig.cache
+D:\Career\Web Development\Projects_web\Online Examination System\obj\Debug\net8.0\ref\Online Examination System.dll
